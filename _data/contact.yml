@@ -2,9 +2,15 @@
 
 - type: github
   icon: "fab fa-github"
+  username: PlexSheep
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: mastodon
+  icon: "fa-brands fa-mastodon"
+  url: https://infosec.exchange/@plexsheep
+
+- type: lemmy
+  icon-url: "https://infosec.pub/static/1787a778/assets/icons/favicon.svg"
+  url: https://infosec.pub/u/PlexSheep
 
 - type: email
   icon: "fas fa-envelope"
@@ -13,6 +19,7 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon

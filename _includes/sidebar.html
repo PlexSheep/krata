@@ -89,7 +89,11 @@
             rel="{{ link_types }}"
           {% endunless %}
         >
+        {% if entry.icon-url %}
+          <img src="{{ entry.icon-url }}" alt="icon"></img>
+        {% else %}
           <i class="{{ entry.icon }}"></i>
+        {% endif %}
         </a>
       {% endif %}
     {% endfor %}
