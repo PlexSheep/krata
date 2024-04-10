@@ -20,20 +20,29 @@ The following links are related to taking or processing notes.
   on note-taking apps
 * [silverbullet](https://silverbullet.md) - Markdown Based Notes in a browser.
 
-# Coding
+# Computer Stuff
 
 ## Editors
 
 * [neovim](https://neovim.io) - The absolute pinnacle of all text editors
 
-# Hacking
+## Hacking
 
 * [revshells](https://www.revshells.com/) - Interactive collection of
   reverse shells
 
+## Other
+
+* [killed by google](https://killedbygoogle.com/) - A list of services from
+  Google that no longer exist
+* [frank geht ran](https://digitalcourage.de/frank-geht-ran) - Burner phone
+  number, when you call it, Frank tells the caller that contact by phone is not
+  wanted. (German)
+
 # Travel and Urbanism
 
-* [seat61](https://www.seat61.com/) - 
+* [seat61](https://www.seat61.com/) - Detailed Information for longer Travels
+  by train
 
 # Science
 
@@ -41,13 +50,3 @@ The following links are related to taking or processing notes.
 
 * [37](http://www.thirty-seven.org/) - 37 is everywhere (seems like the most
   random $n < 100$)
-
-
-
-
-
-
-
-
-
-
