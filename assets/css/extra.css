@@ -1,0 +1,10 @@
+.ascii-art {
+  font-family: monospace;
+  white-space: pre;
+  line-height: 1rem;
+}
+
+.text-huge {
+  font-size: 9rem;
+  white-space: nowrap;
+}
