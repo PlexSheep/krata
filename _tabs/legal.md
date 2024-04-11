@@ -4,8 +4,6 @@ order: 200
 title: Imprint & Legal
 ---
 
-Germany requires me to add some legal information here.
-
 # Impressum
 
 ## Angaben gemäß § 5 TMG
@@ -18,7 +16,7 @@ E-Mail: <a href="mailto:contact@cscherr.de">contact@cscherr.de</a>
 </pre>
 
 Meine Web-Präsenz ist nicht kommerziell, nach meinem Rechtsverständnis bräuchte
-ich demnach kein vollständiges Impressum. Dennoch biete ich diese Informationen
+ich demnach kein vollständiSes Impressum. Dennoch biete ich diese Informationen
 hier an.
 
 
