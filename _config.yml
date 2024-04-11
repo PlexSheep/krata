@@ -96,7 +96,7 @@ toc: true
 
 comments:
   # Global switch for the post comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: giscuss # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -106,10 +106,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: PlexSheep/krata
+    repo_id: R_kgDOLs9vZw
+    category: General
+    category_id: DIC_kwDOLs9vZ84CeoRm
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
