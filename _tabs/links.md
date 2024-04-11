@@ -38,6 +38,10 @@ The following links are related to taking or processing notes.
 * [frank geht ran](https://digitalcourage.de/frank-geht-ran) - Burner phone
   number, when you call it, Frank tells the caller that contact by phone is not
   wanted. (German)
+* [datenschutz-generator](https://datenschutz-generator.de/) - Legal compliance
+  is annoying for people just looking to host some nice software. This website
+  helped me keep my sanity by generating a *Datenschutzerklärung* based on some
+  information.
 
 # Travel and Urbanism
 
